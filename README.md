@@ -1,2 +1,2 @@
-# projects
-Python projects
+# mac_changer
+This is a simple mac changer, will only work in linux
